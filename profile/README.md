@@ -6,5 +6,5 @@
 * :cloud: Cloud technologies
 * :sound: Voice control
 
-In cooperation with the [University of Applied Sciences Kempten](https://www.hs-kempten.de/), [Soloplan](www.soloplan.de) offers a place that is accessible to students. The Innovation Lab offers the resources to work on projects or learning content without disruption.
+In cooperation with the [University of Applied Sciences Kempten](https://www.hs-kempten.de/), [Soloplan](https://www.soloplan.de) offers a place that is accessible to students. The Innovation Lab offers the resources to work on projects or learning content without disruption.
 
