@@ -1,4 +1,4 @@
-## Welcome to the Soloplan Innovatiob Lab
+## Soloplan Innovation Lab
 
 **The Soloplan Innovation Lab serves to advance and continuously improve the world of logistics. Here, the use of state-of-the-art technologies is tested such as:**
 * :computer: Machine Learning (AI)
